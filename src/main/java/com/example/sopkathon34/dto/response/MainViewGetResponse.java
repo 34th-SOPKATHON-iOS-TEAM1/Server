@@ -9,5 +9,4 @@ public record MainViewGetResponse(
         List<String> todoContent,
         List<String> notTodoContent
 ) {
-
 }

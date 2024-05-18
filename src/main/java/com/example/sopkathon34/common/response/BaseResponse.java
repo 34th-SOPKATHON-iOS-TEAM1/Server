@@ -1,6 +1,5 @@
 package com.example.sopkathon34.common.response;
 
-
 public record BaseResponse<T>(
         int status,
         String message,
