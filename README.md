@@ -1,5 +1,7 @@
 ## 서비스 한 줄 소개
-나의 TO-DO와 NOT-TO-DO를 한 번에 관리하는 나만의 균형 있는 TODO 앱 **‘두잉낫두잉’**
+나의 TO-DO와 NOT-TO-DO를 한 번에 관리하는 나만의 균형 있는 TODO 앱 **‘SeesO’**
+<img width="550" alt="image" src="https://github.com/34th-SOPKATHON-iOS-TEAM1/Server/assets/128011308/9ef658af-3f44-4670-a5d0-621f76dae465">
+
 
 ### TEAM
 ---
