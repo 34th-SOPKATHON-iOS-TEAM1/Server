@@ -8,5 +8,6 @@ import lombok.Getter;
 public enum FailMessage {
     ;
 
+    private final int status;
     private final String message;
 }
