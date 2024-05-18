@@ -10,13 +10,13 @@ import org.springframework.web.bind.annotation.*;
 @RestController
 @RequiredArgsConstructor
 @RequestMapping("api/v1")
-public class NotTodoController {
+public class NotTodoController implements ControllerSwagger {
 
     private final NotTodoService notTodoService;
 
     @PostMapping("/not-todo")
     public BaseResponse<Void> createNotTodo(
-            @RequestHeader(name = "memberId") Long memberId,
+            @RequestHeader Long memberId,
             @RequestBody NotTodoCreateRequest notTodoCreateRequest
             ) {
         notTodoService.createNotTodo(memberId, notTodoCreateRequest);
