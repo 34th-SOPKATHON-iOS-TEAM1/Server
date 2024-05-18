@@ -17,11 +17,10 @@
 | 프로젝트 초기 세팅       |   김보람    |
 | 배포                  |   김보람    |
 | DB 설계              | 김보람, 김가연 |
-| 목표 설정 API  | 가연      |
-| To-Do 등록 API  |    가연   |
-| Not-To-Do 등록 API      |   가연   |
-| 메인 뷰 전체 조회 API  |   보람    |
-| 메인 뷰 체크박스 변경 API  |   보람    |
+| 목표 설정 API  | 김보람      |
+| To-Do 등록 API  |    김보람   |
+| Not-To-Do 등록 API      |   김가연   |
+| 메인 뷰 전체 조회 API  |   김가연    |
 
 
 
@@ -65,7 +64,8 @@
 [API 명세서](https://lemon-leather-188.notion.site/API-5099a39c67544ee287f8af9a823dff4d?pvs=4) 
 
 ### 데이터베이스 ERD
-<img width="887" alt="image" src="https://github.com/34th-SOPKATHON-iOS-TEAM1/Server/assets/128011308/1f0d2f65-b44f-4ff6-8c74-26bd29717286">
+<img width="1009" alt="image" src="https://github.com/34th-SOPKATHON-iOS-TEAM1/Server/assets/128011308/8141f2b7-f2d9-4766-b32b-781fab84da70">
+
 
     
 # 👥 우리들의 컨벤션
