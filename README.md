@@ -19,7 +19,7 @@
 | DB 설계              | 김보람, 김가연 |
 | 목표 설정 API  | 김보람      |
 | To-Do 등록 API  |    김보람   |
-| Not-To-Do 등록 API      |   김가연   |
+| Not-To-Do 등록 API      |   김가연    |
 | 메인 뷰 전체 조회 API  |   김가연    |
 
 
@@ -35,24 +35,21 @@
 | Java version | Java 17 |
 | 패키지 구조 | 계층형 패키지 구조 |
 
-### 아키텍쳐 구조도
-<img width="649" alt="image" src="">
-
 
 ### 프로젝트 폴더 구조도
 ```
 📂 sopkathon34Server
 
-🗂 java/sopt/org/sopkathonServer
+🗂 java/com/example/sopkathon34
   🗂 common
-      🗂 brand
-          🗂 advice
-          🗂 exception
+      🗂 advice
+      🗂 exception
+      🗂 response
   🗂 config
   🗂 controller
-      🗂 dto
+  🗂 dto
   🗂 domain
-  🗂 infrastructure
+  🗂 repository
   🗂 service
 🗂 resources
   application.yml
@@ -61,10 +58,11 @@
 
 ### API 명세서
 
-[API 명세서](https://lemon-leather-188.notion.site/API-5099a39c67544ee287f8af9a823dff4d?pvs=4) 
+[API 명세서](https://www.notion.so/API-afc634853ae54b2abb9406e817270546?pvs=4) 
 
 ### 데이터베이스 ERD
-<img width="1009" alt="image" src="https://github.com/34th-SOPKATHON-iOS-TEAM1/Server/assets/128011308/8141f2b7-f2d9-4766-b32b-781fab84da70">
+<img width="633" alt="image" src="https://github.com/34th-SOPKATHON-iOS-TEAM1/Server/assets/128011308/2d38c3bc-d498-4978-968f-cdb29b9d65b0">
+
 
 
     
