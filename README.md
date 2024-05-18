@@ -1,11 +1,5 @@
-# Server
-SOPT 34기 솝커톤 iOS 1팀 Server Repository입니다
----
-1️⃣  서비스 이름과 소개
-2️⃣  API 명세서와 역할 분배(각자 개발 담당 부분)
-3️⃣  코드 컨벤션
-4️⃣  프로젝트 폴더링
-5️⃣  ERD 캡쳐 사진
+## 서비스 한 줄 소개
+나의 TO-DO와 NOT-TO-DO를 한 번에 관리하는 나만의 균형 있는 TODO 앱 **‘두잉낫두잉’**
 
 ### TEAM
 ---
@@ -68,7 +62,7 @@ SOPT 34기 솝커톤 iOS 1팀 Server Repository입니다
 [API 명세서](https://lemon-leather-188.notion.site/API-5099a39c67544ee287f8af9a823dff4d?pvs=4) 
 
 ### 데이터베이스 ERD
-<img src="https://fancy-death-29b.notion.site/API-afc634853ae54b2abb9406e817270546?pvs=4" width=450/>
+<img width="887" alt="image" src="https://github.com/34th-SOPKATHON-iOS-TEAM1/Server/assets/128011308/1f0d2f65-b44f-4ff6-8c74-26bd29717286">
 
     
 # 👥 우리들의 컨벤션
