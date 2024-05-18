@@ -1,6 +1,7 @@
 package com.example.sopkathon34.controller;
 
 import com.example.sopkathon34.common.response.BaseResponse;
+import com.example.sopkathon34.dto.request.GoalCreateRequest;
 import com.example.sopkathon34.dto.request.NotTodoCreateRequest;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.responses.ApiResponse;
